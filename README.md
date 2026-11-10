@@ -1,4 +1,43 @@
 ## Hi there 👋
+👋 Hi, I'm Hari Haran
+
+QA Lead | SDET | Playwright | JavaScript
+
+**About Me**
+
+14+ years of QA experience across:
+• Insurance
+• Banking
+• Retail
+
+**Core Skills**
+
+• Playwright
+• JavaScript
+• API Testing
+• CI/CD
+• GitHub Actions
+• Test Strategy
+• QA Leadership
+
+**Featured Projects**
+
+1. Playwright EventHub Automation
+2. Playwright UI Framework
+3. Playwright API Testing
+4. Playwright CI/CD Demo
+
+**Certifications**
+
+• ISTQB CTFL
+• AWS Solution Architect Associate
+• Finastra Certified Associate
+
+**Connect With Me**
+
+LinkedIn
+GitHub
+Email
 
 <!--
 **nthariharan/nthariharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
