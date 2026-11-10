@@ -1,32 +1,38 @@
-## Hi there 👋
-👋 Hi, I'm Hari Haran
-
+## Hi  I'm Hari Haran 👋
 QA Lead | SDET | Playwright | JavaScript
 
-**About Me**
+Experienced QA Lead with a strong background in Insurance and Banking systems, currently expanding modern automation capabilities through Playwright and JavaScript-based automation frameworks.
 
-14+ years of QA experience across:
+**About Me**
+14+ years of experience in Quality Assurance, Test Strategy, Functional Testing, and Stakeholder Management across:
 
 • Insurance
-• Banking
+• Banking & Payments
 • Retail
 
 **Core Skills**
 
+Automation:
 • Playwright
 • JavaScript
 • API Testing
-• CI/CD
 • GitHub Actions
+• CI/CD
+
+Quality Engineering:
 • Test Strategy
+• Functional Testing
+• Exploratory Testing
 • QA Leadership
 
 **Featured Projects**
 
-1. Playwright EventHub Automation
-2. Playwright UI Framework
-3. Playwright API Testing
-4. Playwright CI/CD Demo
+🔹 [Playwright EventHub Automation](https://github.com/nthariharan/playwright-eventhub-automation)
+
+🔹 [Playwright UI Framework](https://github.com/nthariharan/Insurance-Quote)
+
+🔹 [Playwright CI/CD Demo](https://github.com/nthariharan/QAOpsPlaywright)
+
 
 **Certifications**
 
@@ -35,6 +41,7 @@ QA Lead | SDET | Playwright | JavaScript
 • Finastra Certified Associate
 
 **Connect With Me**
+
 [LinkedIn](https://www.linkedin.com/in/hari-haran-nt/)
 
 
