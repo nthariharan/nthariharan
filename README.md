@@ -34,10 +34,8 @@ QA Lead | SDET | Playwright | JavaScript
 • Finastra Certified Associate
 
 **Connect With Me**
+[LinkedIn](https://www.linkedin.com/in/hari-haran-nt/)
 
-LinkedIn
-GitHub
-Email
 
 <!--
 **nthariharan/nthariharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
