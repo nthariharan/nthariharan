@@ -6,6 +6,7 @@ QA Lead | SDET | Playwright | JavaScript
 **About Me**
 
 14+ years of QA experience across:
+
 • Insurance
 • Banking
 • Retail
